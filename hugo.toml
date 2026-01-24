@@ -1,0 +1,10 @@
+baseURL = "https://kxkxq.github.io/"
+languageCode = "zh-cn"
+title = "kxkxq 的博客"
+theme = "hugo-ivy"
+publishDir = "docs"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
