@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on kxkxq 的博客</title>
-    <link>http://localhost:1313/note/</link>
-    <description>Recent content in Notes on kxkxq 的博客</description>
+    <title>Notes on kxkxq｜随笔 · 投资 · 思考</title>
+    <link>https://kxkxq.github.io/note/</link>
+    <description>Recent content in Notes on kxkxq｜随笔 · 投资 · 思考</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/note/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kxkxq.github.io/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Quick Note on Two Beautiful Websites</title>
-      <link>http://localhost:1313/note/a-quick-note/</link>
+      <link>https://kxkxq.github.io/note/a-quick-note/</link>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/note/a-quick-note/</guid>
+      <guid>https://kxkxq.github.io/note/a-quick-note/</guid>
       <description>&lt;p&gt;弟弟，你好，包包在这里 &lt;strong&gt;测试加粗&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.xiaohongshu.com/user/profile/616835fa000000000201d473&#34;&gt;你看得到我吗 测试链接&lt;/a&gt;是我的小红书.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.xiaohongshu.com/user/profile/58e86d785e87e72d7681f156&#34;&gt;这是你的小红书 测试链接&lt;/a&gt;  &lt;em&gt;测试斜体字&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;你会很思念我吗？&lt;/p&gt;</description>
     </item>
     <item>
       <title>Another Note on A blogdown Tutorial</title>
-      <link>http://localhost:1313/note/another-note/</link>
+      <link>https://kxkxq.github.io/note/another-note/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/note/another-note/</guid>
+      <guid>https://kxkxq.github.io/note/another-note/</guid>
       <description>&lt;p&gt;I just discovered &lt;a href=&#34;https://apreshill.rbind.io/post/up-and-running-with-blogdown/&#34;&gt;an awesome tutorial&lt;/a&gt; on &lt;strong&gt;blogdown&lt;/strong&gt; written by Alison. I have to admit this is &lt;em&gt;the&lt;/em&gt; best &lt;strong&gt;blogdown&lt;/strong&gt; tutorial I have seen so far.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://alison.rbind.io/blog/2017-06-up-running-with-blogdown/blogdown-signpost-1.png&#34; alt=&#34;Alison&amp;rsquo;s blogdown tutorial&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
