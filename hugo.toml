@@ -1,6 +1,6 @@
 baseURL = "https://kxkxq.github.io/"
 languageCode = "zh-cn"
-title = "kxkxq 的博客"
+title = "kxkxq｜随笔 · 投资 · 思考"
 theme = "hugo-ivy"
 publishDir = "docs"
 [markup]
@@ -8,3 +8,24 @@ publishDir = "docs"
     [markup.goldmark.renderer]
       unsafe = true
 
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Notes"
+    url = "/note/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
