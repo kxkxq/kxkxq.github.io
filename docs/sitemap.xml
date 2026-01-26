@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kxkxq.github.io/note/a-quick-note/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kxkxq.github.io/categories/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kxkxq.github.io/categories/example/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kxkxq.github.io/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kxkxq.github.io/note/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kxkxq.github.io/about/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kxkxq.github.io/</loc>
-    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kxkxq.github.io/note/another-note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kxkxq.github.io/categories/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kxkxq.github.io/categories/example/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kxkxq.github.io/note/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kxkxq.github.io/tags/</loc>
@@ -25,9 +28,6 @@
   </url><url>
     <loc>https://kxkxq.github.io/tags/tutorial/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kxkxq.github.io/note/a-quick-note/</loc>
-    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kxkxq.github.io/post/2016-02-14-hello-markdown/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>

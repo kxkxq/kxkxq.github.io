@@ -1,16 +1,16 @@
 ---
 title: A Quick Note on Two Beautiful Websites
-author: Yihui Xie
-date: '2017-06-13'
+author: kxq
+date: '2026-01-26'
 categories:
   - Example
 slug: a-quick-note
 ---
 
-To me, the two most impressive websites based on **blogdown** are:
+弟弟，你好，包包在这里 **测试加粗**
 
-1. [Rob J Hyndman](https://robjhyndman.com)'s personal website.
-1. [Live Free or Dichotomize](http://livefreeordichotomize.com) by Lucy and Nick _et al_.
+1. [你看得到我吗 测试链接](https://www.xiaohongshu.com/user/profile/616835fa000000000201d473)是我的小红书.
+1. [这是你的小红书 测试链接](https://www.xiaohongshu.com/user/profile/58e86d785e87e72d7681f156)  _测试斜体字_.
 
-I'm sure there will be more.
-【测试】这是我第一次修改并重新发布 Hugo 博客内容。
+你会很思念我吗？
+

@@ -6,21 +6,21 @@
     <description>Recent content in Example on kxkxq 的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kxkxq.github.io/categories/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Quick Note on Two Beautiful Websites</title>
+      <link>https://kxkxq.github.io/note/a-quick-note/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://kxkxq.github.io/note/a-quick-note/</guid>
+      <description>&lt;p&gt;弟弟，你好，包包在这里 &lt;strong&gt;测试加粗&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.xiaohongshu.com/user/profile/616835fa000000000201d473&#34;&gt;你看得到我吗 测试链接&lt;/a&gt;是我的小红书.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.xiaohongshu.com/user/profile/58e86d785e87e72d7681f156&#34;&gt;这是你的小红书 测试链接&lt;/a&gt;  &lt;em&gt;测试斜体字&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;你会很思念我吗？&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Another Note on A blogdown Tutorial</title>
       <link>https://kxkxq.github.io/note/another-note/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://kxkxq.github.io/note/another-note/</guid>
       <description>&lt;p&gt;I just discovered &lt;a href=&#34;https://apreshill.rbind.io/post/up-and-running-with-blogdown/&#34;&gt;an awesome tutorial&lt;/a&gt; on &lt;strong&gt;blogdown&lt;/strong&gt; written by Alison. I have to admit this is &lt;em&gt;the&lt;/em&gt; best &lt;strong&gt;blogdown&lt;/strong&gt; tutorial I have seen so far.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://alison.rbind.io/blog/2017-06-up-running-with-blogdown/blogdown-signpost-1.png&#34; alt=&#34;Alison&amp;rsquo;s blogdown tutorial&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Quick Note on Two Beautiful Websites</title>
-      <link>https://kxkxq.github.io/note/a-quick-note/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://kxkxq.github.io/note/a-quick-note/</guid>
-      <description>&lt;p&gt;To me, the two most impressive websites based on &lt;strong&gt;blogdown&lt;/strong&gt; are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://robjhyndman.com&#34;&gt;Rob J Hyndman&lt;/a&gt;&amp;rsquo;s personal website.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://livefreeordichotomize.com&#34;&gt;Live Free or Dichotomize&lt;/a&gt; by Lucy and Nick &lt;em&gt;et al&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure there will be more.&#xA;【测试】这是我第一次修改并重新发布 Hugo 博客内容。&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Plain Markdown Post</title>
