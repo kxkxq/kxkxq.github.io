@@ -13,3 +13,4 @@ To me, the two most impressive websites based on **blogdown** are:
 1. [Live Free or Dichotomize](http://livefreeordichotomize.com) by Lucy and Nick _et al_.
 
 I'm sure there will be more.
+【测试】这是我第一次修改并重新发布 Hugo 博客内容。
