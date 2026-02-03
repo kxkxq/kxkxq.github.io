@@ -15,4 +15,4 @@ slug: podcasts-2026-01
 1. [E189 聊聊段永平，以及你想活出怎样的人生](https://podcasts.apple.com/cn/podcast/e189-%E8%81%8A%E8%81%8A%E6%AE%B5%E6%B0%B8%E5%B9%B3-%E4%BB%A5%E5%8F%8A%E4%BD%A0%E6%83%B3%E6%B4%BB%E5%87%BA%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%94%9F/id1559695855?i=1000709573756)
 1. [E169 对话成庆：佛说赚钱好，但得如实赚](https://podcasts.apple.com/cn/podcast/e169-%E5%AF%B9%E8%AF%9D%E6%88%90%E5%BA%86-%E4%BD%9B%E8%AF%B4%E8%B5%9A%E9%92%B1%E5%A5%BD-%E4%BD%86%E5%BE%97%E5%A6%82%E5%AE%9E%E8%B5%9A/id1559695855?i=1000680258720)
 
-以上为test
+以上为test new ver
