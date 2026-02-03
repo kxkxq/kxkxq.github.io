@@ -2,8 +2,14 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
+你好，我是小圈。
 
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document it. You have to read the source code to understand what it can do. Like Ivy, this theme is also released under [the Unlicense](https://en.wikipedia.org/wiki/Unlicense), which basically means you just do whatever you want.
+这是我的个人博客，主要用来用文字记录我的思考与生活。
 
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/).
+我会在这里写：
+
+- 我尚未成型但在反复思考的事情  
+- 了解自己、了解世界过程中的笔记  
+- 我的生活碎片、亲密关系、个人成长  
+
+这个网站使用 Hugo + GitHub Pages 搭建，会长期维护和更新。
